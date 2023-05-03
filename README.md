@@ -1,4 +1,4 @@
-# spolszczenie-fnaf-sb
+# Spolszczenie do gry Five Nights at Freddy's: Security Breach
 
 Projekt polskiego tłumaczenia gry FNAF:SB w wersji na PC.
 
