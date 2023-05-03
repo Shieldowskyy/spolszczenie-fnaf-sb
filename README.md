@@ -24,3 +24,8 @@ Potem wystarczy tylko uruchomić grę i naszym oczom powinien ukazać się zaró
 
 Przetłumaczone karty podpowiedzi:
 ![image](https://user-images.githubusercontent.com/32707076/236044483-12d6dc2e-2270-4acf-b7f8-ae8c83861d6c.png)
+
+A nawet niektóre napisy w świecie gry:
+
+![image](https://user-images.githubusercontent.com/32707076/236044721-95622744-61aa-45f3-ac55-a5edb124b5be.png)
+
