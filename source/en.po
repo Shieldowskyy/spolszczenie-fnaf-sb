@@ -13996,7 +13996,7 @@ msgid ""
 "(Vanessa) \\_00_00Hello? Little boy? If you're down here, say "
 "\\_00_02something!"
 msgstr ""
-"(Vanessa) \\_00_00Halo? Mały chłopcze? Jeśli tu jesteś, powiedz \\_00_02coś!"
+"(Vanessa) \\_00_00Halo? Mały chłopcze? \\_00_02Jeśli tu jesteś, powiedz coś!"
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_VANESSA_00041"
 msgid ""
