@@ -16,6 +16,7 @@ Potem wystarczy tylko uruchomić grę i naszym oczom powinien ukazać się zaró
 ## Screenshoty
 
 ![image](https://user-images.githubusercontent.com/32707076/236043351-5fac1cba-0948-4bc8-947d-1961461a4012.png)
+![image](https://user-images.githubusercontent.com/32707076/236296001-af763f0b-64f1-4b7d-b1b2-5351c1633322.png)
 ![image](https://user-images.githubusercontent.com/32707076/236043442-bb249b66-bbbc-4c4a-b8a1-0ab44ff0337f.png)
 ![image](https://user-images.githubusercontent.com/32707076/236043505-bb98338c-fc91-4f1c-9f1b-bc4698f1ce27.png)
 ![image](https://user-images.githubusercontent.com/32707076/236043640-fdc50726-231a-4eb2-9a46-bdec64da2310.png)
