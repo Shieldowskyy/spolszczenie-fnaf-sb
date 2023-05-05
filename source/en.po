@@ -1238,7 +1238,7 @@ msgstr ""
 
 msgctxt "Loc_EmployeeMessages/Loc_MessageData_Sinkhole1_Title"
 msgid "SINKHOLE"
-msgstr "ZASIĘG"
+msgstr "ZAPADLISKO"
 
 msgctxt "Loc_EmployeeMessages/Loc_MessageData_RoxyBoss1_Title"
 msgid "SORE WINNER"
@@ -9031,35 +9031,36 @@ msgstr ""
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000005"
 msgid "(Audience Bot) \\_00_00I cannot sleep. I am a robot."
-msgstr ""
+msgstr "(Audience Bot) \\_00_00Nie mogę spać. Jestem robotem."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000004"
 msgid "(Audience Bot) \\_00_00I have no ears."
-msgstr ""
+msgstr "(Audience Bot) \\_00_00Nie mam uszu."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000007"
 msgid "(Audience Bot) \\_00_00I hope I do not get picked."
-msgstr ""
+msgstr "(Audience Bot) \\_00_00Mam nadzieję, że mnie nie wybiorą."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000006"
 msgid "(Audience Bot) \\_00_00I hope I get picked."
-msgstr ""
+msgstr "(Audience Bot) \\_00_00Mam nadzieję, że mnie wybiorą."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000002"
 msgid "(Audience Bot) \\_00_00No. I have never seen you before in my life."
-msgstr ""
+msgstr "(Audience Bot) \\_00_00Nie. Nigdy w życiu cię nie widziałem."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000003"
 msgid "(Audience Bot) \\_00_00Sleep, sleep, sleep. I am human sleeping."
 msgstr ""
+"(Audience Bot) \\_00_00Spanie, spanie, spanie. Jestem śpiącym człowiekiem."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000001"
 msgid "(Audience Bot) \\_00_00Who, me?"
-msgstr ""
+msgstr "(Audience Bot) \\_00_00Kto, ja?"
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_AUDIENCEBOT_000008"
 msgid "(Audience Bot) \\_00_00Wow. Amazing."
-msgstr ""
+msgstr "(Audience Bot) \\_00_00Wow. Niesamowite."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_Play_Tape_1_7139"
 msgid ""
@@ -9500,7 +9501,7 @@ msgstr ""
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_CHICA_00020"
 msgid "(Chica) \\_00_00There you are!"
-msgstr ""
+msgstr "(Chica) \\_00_00Tutaj jesteś!"
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_CHICA_00015"
 msgid "(Chica) \\_00_00This area is off limits."
@@ -9850,6 +9851,8 @@ msgid ""
 "\\_00_03win the game in order to receive your very own \\_00_07Fazerblaster. "
 "Good Luck!"
 msgstr ""
+"(Freddy) \\_00_00Ah, Fazer Blast, Sport królów. \\_00_03Musisz wygrać grę, "
+"aby otrzymać swój własny \\_00_07Fazerblaster. Powodzenia!"
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_FREDDY_00092"
 msgid ""
@@ -11739,6 +11742,8 @@ msgid ""
 "(Freddy) \\_00_00You can still return here and leave later, if you "
 "\\_00_03have second thoughts."
 msgstr ""
+"(Freddy) \\_00_00Możesz tu wrócić i wyjść później, \\_00_03jeśli jeszcze się "
+"wahasz."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_FREDDY_00191"
 msgid ""
@@ -13792,7 +13797,7 @@ msgstr ""
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_Rulesbot_00001"
 msgid "(Rules Bot)\\_00_00This is a test for rules bot"
-msgstr ""
+msgstr "(Rules Bot)\\_00_00To jest test bota reguł"
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_rulesbot_00001"
 msgid "(Rules Bot)\\_00_00This is a test for rules bot"
