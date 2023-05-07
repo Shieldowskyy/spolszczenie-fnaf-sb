@@ -2,9 +2,9 @@
 
 Projekt polskiego tłumaczenia gry FNAF:SB w wersji na PC.
 
-## Spis treści:
+# Spis treści:
 
-[Jak edytować tłumaczenie?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/blob/main/source/JAK-EDYTOWA%C4%86.md)
+[Jak edytować tłumaczenie?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/blob/main/source/JAK-EDYTOWA%C4%86.md)<br />[Jak zgłosić błąd w tłumaczeniu?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb#zg%C5%82aszanie-b%C5%82%C4%99d%C3%B3w)<br />[Jak tłumaczenie wygląda w grze?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb#screenshoty)
 
 # Jak zainstalować?
 Plik **.pak** dostępny w zakładce [Releases](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/releases) należy przenieść do katalogu gry i umieścić w folderze **"fnaf9\Content\Paks"**
@@ -15,7 +15,7 @@ Potem wystarczy tylko uruchomić grę i naszym oczom powinien ukazać się zaró
 
 # Zgłaszanie błędów
 Błędy w tłumaczeniu zgłaszaj w [zakładce issues](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/issues)
-Lub do mnie na PW na Discord: Shieldziak#5834 lub @Shieldziak
+lub do mnie na PW na Discord: Shieldziak#5834 lub @Shieldziak
 
 ## Screenshoty
 
