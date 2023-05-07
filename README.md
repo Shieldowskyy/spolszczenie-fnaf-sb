@@ -13,6 +13,10 @@ U mnie przykładowa ścieżka do tego folderu wygląda tak:
 
 Potem wystarczy tylko uruchomić grę i naszym oczom powinien ukazać się zarówno interfejs w języku polskim jak i dialogi postaci.
 
+# Zgłaszanie błędów
+Błędy w tłumaczeniu zgłaszaj w [zakładce issues](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/issues)
+Lub do mnie na PW na Discord: Shieldziak#5834 lub @Shieldziak
+
 ## Screenshoty
 
 ![image](https://user-images.githubusercontent.com/32707076/236043351-5fac1cba-0948-4bc8-947d-1961461a4012.png)
