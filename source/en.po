@@ -11893,7 +11893,7 @@ msgstr ""
 "(Freddy) \\_00_00Co za niesamowite szczęście. Masz roczną nieograniczoną "
 "wejściówkę Bonnie Bowl. \\_00_03Darmowa kręgielnia przez cały rok! "
 "\\_00_06Bilet do Mega Pizzaplex nie jest uwzględniony. Nadal obowiązują "
-"opłaty za wypożyczenie butów i piłek \\_00_09."
+"opłaty za wypożyczenie butów i kul."
 
 msgctxt "Loc_Subtitles_Timestamp/Loc_Subtitle_TimeStamp_FREDDY_00131"
 msgid "(Freddy) \\_00_00Whatever it is, do not let it find you."
