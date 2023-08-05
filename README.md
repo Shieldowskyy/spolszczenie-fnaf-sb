@@ -1,8 +1,8 @@
-# Spolszczenie do gry Five Nights at Freddy's: Security Breach
+# Spolszczenie do gry Five Nights at Freddy's: Security Breach (Oraz RUIN DLC)
 
 [![Crowdin](https://badges.crowdin.net/spolszczenie-fnaf-sb/localized.svg)](https://crowdin.com/project/spolszczenie-fnaf-sb)
 
-Projekt polskiego tłumaczenia gry FNAF:SB w wersji na PC.
+Projekt polskiego tłumaczenia gry FNAF:SB (oraz RUIN) w wersji na PC.
 # Spis treści:
 
 [Jak edytować tłumaczenie?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/blob/main/source/JAK-EDYTOWA%C4%86.md)<br />[Jak zgłosić błąd w tłumaczeniu?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb#zg%C5%82aszanie-b%C5%82%C4%99d%C3%B3w)<br />[Jak tłumaczenie wygląda w grze?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb#screenshoty)
@@ -17,6 +17,8 @@ Potem wystarczy tylko uruchomić grę i naszym oczom powinien ukazać się zaró
 # Zgłaszanie błędów
 Błędy w tłumaczeniu zgłaszaj w [zakładce issues](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/issues)
 lub do mnie na PW na Discord: Shieldziak#5834 lub @Shieldziak
+
+Możesz je również naprawić samodzielnie na stronie [Crowdin](https://crowdin.com/project/spolszczenie-fnaf-sb/pl)
 
 ## Screenshoty
 
