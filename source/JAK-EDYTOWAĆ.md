@@ -1,3 +1,8 @@
+# PRZESTARZAŁE!!!
+Ten poradnik jest przestarzały i obecnie edycja plików odbywa się za pomocą [platformy CrowdIn](https://crowdin.com/project/spolszczenie-fnaf-sb/pl)
+
+
+Pomocne może się jednak okazać eksportowanie z plików gry w przypadku porzucenia przeze mnie projektu i konieczności aktualizacji plików
 # Eksport pliku tłumaczenia z plików gry.
 
 1. Pobieramy narzędzie Fmodel i wybieramy w nim ścieżkę do plików gry (do folderu z głównym plikiem .exe)
