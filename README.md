@@ -3,6 +3,15 @@
 [![Crowdin](https://badges.crowdin.net/spolszczenie-fnaf-sb/localized.svg)](https://crowdin.com/project/spolszczenie-fnaf-sb)
 
 Projekt polskiego tłumaczenia gry FNAF:SB (oraz RUIN) w wersji na PC.
+
+# TA STRONA ZOSTAŁA PRZENIESIONA DO REPOZYTORIUM [fnafpl](https://github.com/Shieldowskyy/fnafpl)
+Dalsze zmiany oraz błędy należy zgłaszać w nowym repozytorium, przeznaczonym specjalnie dla lokalizacji gier FNaF na Unreal Engine:
+- FNAF: SB (Oraz RUIN)
+- FNAF: HW (1/2)
+- I kolejne wydania nie będące w 2d ani Point&Click
+
+
+Poniższe treści są przestarzałe i nie należy się nimi kierować.
 # Spis treści:
 
 [Jak edytować tłumaczenie?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb/blob/main/source/JAK-EDYTOWA%C4%86.md)<br />[Jak zgłosić błąd w tłumaczeniu?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb#zg%C5%82aszanie-b%C5%82%C4%99d%C3%B3w)<br />[Jak tłumaczenie wygląda w grze?](https://github.com/Shieldowskyy/spolszczenie-fnaf-sb#screenshoty)
